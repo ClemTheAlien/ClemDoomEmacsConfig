@@ -1,4 +1,4 @@
-INTSALL CLEM DOOM EMACS 
+INSTALL CLEM DOOM EMACS 
 ``` sh
 git clone https://github.com/ClemTheAlien/ClemDoomEmacsConfig ~/.config/doom
 ```
